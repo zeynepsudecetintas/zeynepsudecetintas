@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I’m  Zeynep Sude. I have just completed my 3rd year in Industrial Engineering at Kadir Has University. I also do minors on Marketing in my university and I study E-Commerce in Istanbul University. <br><br>I am interested in topics such as sales & marketing, optimization, branding processes. I am doing an internship for the summer as a pre-sales support engineer at a software company.<br><br>Here are some software I can use:<br><br>- Excel<br>-MatLab<br>-SPSS<br>- And I am currently learning Python.<br>
+<br>Hi, I’m  Zeynep Sude. I have just completed bachelors in Industrial Engineering at Kadir Has University. I also did minors on Marketing in my university and I studied E-Commerce in Istanbul University. <br><br>I am interested in topics such as sales & marketing, optimization, branding processes. I am doing an internship for the summer as a pre-sales support engineer at a software company.<br><br>Here are some software I can use:<br><br>- Excel<br>-MatLab<br>-SPSS<br>- And I am currently learning Python.<br>
 
 
 ## 🌐 Socials:
